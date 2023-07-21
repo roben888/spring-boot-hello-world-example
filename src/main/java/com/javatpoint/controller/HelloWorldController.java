@@ -7,7 +7,7 @@ public class HelloWorldController
 @RequestMapping("/")
 public String hello() 
 {
-    System.out.println("Hello javaTpoint OK 20230721!!");
-    return "Hello javaTpoint 20230721!!";
+    System.out.println("Hello javaTpoint OK 2023072110!!");
+    return "Hello javaTpoint 2023072110!!";
 }
 }
