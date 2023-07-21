@@ -8,6 +8,6 @@ public class HelloWorldController
 public String hello() 
 {
     System.out.println("Hello javaTpoint OK 20230721!!");
-    return "Hello javaTpoint 20230721";
+    return "Hello javaTpoint 20230721!!";
 }
 }
